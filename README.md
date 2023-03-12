@@ -1,11 +1,10 @@
-# Analise dados RH com Python
+# Analise de dados RH com Python
 
-Análise Exploratória de Dados
-Distribuição das Variáveis Numéricas
-Teste de Normalidade da Distribuição
-Correlação dos Dados
-Limpeza e Processamento dos Dados
-
+- Análise Exploratória de Dados
+- Distribuição das Variáveis Numéricas
+- Teste de Normalidade da Distribuição
+- Correlação dos Dados
+- Limpeza e Processamento dos Dados
 
 Com base em nossa análise observamos que as variáveis mais relevantes para identificar um bom candidato são:
 
